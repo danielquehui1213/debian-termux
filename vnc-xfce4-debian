@@ -1,0 +1,2 @@
+#!/bin/bash
+vncserver -xstartup /usr/bin/startxfce4 -listen tcp :1
